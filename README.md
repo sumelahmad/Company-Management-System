@@ -1,4 +1,4 @@
-# Employee, Product, Task, Financial, and Client/Vendor Management System
+# Company Management System
 
 ## Overview
 This project implements a comprehensive management system that provides modules for handling employee management, product management, task management, financial management, and client/vendor management. Each module has functionalities that allow adding, updating, deleting records, and generating reports based on the data.
